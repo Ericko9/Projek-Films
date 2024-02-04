@@ -1,0 +1,31 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/main.jpg");
+  background-size: cover;
+}
+
+.trending {
+  height: 100vh;
+  background: url("../assets/images/bg/spiderman.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.tittle {
+  font-size: 3rem;
+  font-weight: 1000;
+  line-height: 1.2;
+  text-shadow: 1vh 1vh black;
+  letter-spacing: 0.5vh;
+}
+
+.movieImage {
+    width:  200px;
+    height: ;
+}
